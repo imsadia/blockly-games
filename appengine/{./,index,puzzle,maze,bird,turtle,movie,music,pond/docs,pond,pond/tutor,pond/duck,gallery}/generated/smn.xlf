@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="smn">
+    <body>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly-speelah</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Pittáspellâ</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labyrint</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Lodde</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kolbâcuábui</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Elleekove</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Muusik</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Láddu</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetiik</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Čovdih taan tääsi oovtâ raddalâssáin JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Čovdih taan tääsi %1 raddalâsâigijn JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Lah-uv vaalmâš táásán %1?</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Lah-uv vaalmâš čuávuváá hástusân?</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Paječaalâ:</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Nolláád</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Iše</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Loogiik</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Váárvuh</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematiik</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tekstâ</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listoh</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Ivne</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Muttojeijee</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funktioh</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>listo</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tekstâ</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Ennuv lukko!</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Halijdah-uv algâttiđ aalgâst?</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Kuorrii tiäđuid</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Aŋkka</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Puuzah</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Lodenjune</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://smn.wikipedia.org/wiki/Aŋkka</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kissá</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Njunesoksâmeh</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Turkkâ</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://smn.wikipedia.org/wiki/Kissá</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Mietâmiäđušijn</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mietâ</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Náálu</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://smn.wikipedia.org/wiki/Mietâmiäđušijn</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Rippo</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Koorâ</target>
+      </trans-unit>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Njivle</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://smn.wikipedia.org/wiki/Rippo</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>kove:</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>jyelgih:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>valjii...</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>jiešnäälih:</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Täärhist västidâsâid</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>liihâd ovdâskulij</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>jorgeet čižetpel</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>jorgeet uálgispel</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>poorgâ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>mudoi</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>jis ovdiibeln lii päälgis</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>jis päälgis jorgeet čizetpel</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>jis päälgis jorgeet uálgispel</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>kiärdut tassaaš ko</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Tile ko lodde ij lah uážžum mááđu.</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Liihâd adelum kulme kuávlun: 0 meerhâš \nuálgispel, 90 njuolgis pajaskulij jna. </target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x já y muštâleh lode sajaduv. Ko x = 0, \nlodde lii čižet roobdâst; ko x = 100, \nlodde lii uálgist roobdâst. Ko y = 0, \nlodde lii vyeliroobdâst; ko y = 100, lodde \nlii pajeroobdâst. </target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Mute manokulme nuuvt, ete lodde uážžu mááđu já siäivu piervâlsis.</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Liihâd kolbâcuobbuu ovdâskulij teikkâ maŋaskulij \nadelum lovo verd. </target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>liihâd ovdâskulij</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>liihâd maŋaskulij</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Jorgeet kolbâcuobbuu vyesti- teikkâ mietipiäiván \nadelum ceehi verd. </target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>jorgeet uálgispel</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>jorgeet čižetpel</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>čievâ kolbâcuobbuu</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>čääiti kolbâcuobbuu</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>fonttâ</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>fonttâstuárudâh</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normaal</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>puáidudum</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kursiiv</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Čääiti galleria</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Vuolgât tuu sárgus gallerian.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Vuolgât gallerian</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Tuu čuávdus tuáimá, mutâ máátáh pyerebeht-uv.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Räähti ohjelm, mii sárgu neljiháá.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Mute ohjelm nuuvt, ete tot sárgu-uv viiđâčievâg ige neljiháá.</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Sáárgu fiskis tääsni.</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>algâ x</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>algâ y</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>loppâ x</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>loppâ y</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>jurbâdâs</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>säärgis</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Muttá peenâ ivne.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>valjii ivnen</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Leehâst elleekovegalleria.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Čääiti galleria</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Vuolgât tuu elleekove gallerian.</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Vuolgât gallerian</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Sirde tyehin leijee jurbâdâs ohjelm pajeroobdân, te tot almostuvá huáđđoo tyehin.</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Keevti ovtkiärdánijd haamijd taan huáđđoo sárgumân.</target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Suáittá oovtâ nuotâ tiätu kukkoduváin já \nšuoŋâaloduváin. </target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>suáiti %1 nuottâ %2</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Vuárdá tiätu ääigi.</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Vuárdá oovtâ nuotâ verd.</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>puddâ %1</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>stellee čuojânâssân %1</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>ko %1 spokkâluvvoo</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Ohtâ šuoŋâ (C4 lii 7).</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>vuosmuš uási</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trumpet</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>vivlu</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>kiitaar</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>huilo</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>rumbu</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>kuoro</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Leehâst muusikgalleria.</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Čääiti galleria</target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Vuolgât tuu muusik gallerian.</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Vuolgât gallerian</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Nuottii 'Jovnâ-viljâ'-pitá nelji vuosmuu nuotâ.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Räähti 'Jovnâ-viljâ' šuoŋâ ollásávt.</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Čuojât tuu melodia viuluin.</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Räähti maggaar peri šuoŋâ halijdah. Tust láá ennuv uđđâ muulsâiävtuh, maid puávtáh tutkâđ. Suotâstâl!</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Teddil 'Čääiti galleria'-puálu, te uáináh magarijd šuoŋâid eres ulmuuh láá ráhtám. Jis rááhtáh mielâkiddiiváá šuoŋâ, teddil 'Vuolgât gallerian'-puálu te almostitáh tom.</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Ravvuuh</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Spellee</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Čuosâttâh</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Hiäilár</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Palolâš</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galleria</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

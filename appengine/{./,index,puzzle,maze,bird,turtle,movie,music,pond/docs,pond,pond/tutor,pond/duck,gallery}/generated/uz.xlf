@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="uz">
+    <body>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirint</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Qush</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Toshbaqa</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musiqa</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Hovuz ustozi</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Hovuz</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetika</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Siz ushbu darajani 1 qator JavaScript bilan yechdingiz:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Siz ushbu darajani %1 qator Javascript yordamida yechdingiz:</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>%1 darajaga tayyormisiz?</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Keyingi sinovga tayyormisiz?</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Sarlavha:</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Saqlash va bloklarga havola.</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Siz yozgan dasturni ishga tushiring.</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Dasturni ishga tushiring</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Dasturni to'xtating va darajani qayta o'rnating.</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Tozalash</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Yordam</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Mantiq</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Tsikllar</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematika</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Matn</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Roʻyxatlar</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Rang</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>O'zgaruvchilar</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funksiyalar</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>So'rov bilan bog'liq muammo yuz berdi.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>O'zingizning bloklaringizni ushbu havola orqali ulashing: %1</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Kechirasiz, '%1' hech qanday saqlangan dasturga mos kelmaydi.</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Saqlangan faylingizni yuklab bo'lmadi. Ehtimol, u Blockly-ning boshqa versiyasi bilan yaratilgandir?</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Ushbu dastur uchun tashakkur! Agar dastur bizning o'rgatilgan  xodimlarimizga yoqsa, uni bir necha kun ichida galereyada nashr etishadi.</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ro'yxat</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>matn</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>JavaScript-ni tahrirlashni boshlaganingizdan so'ng, tahrirlash bloklariga qaytishingiz mumkin emas. Rozimisiz?</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bloklar</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Tabriklaymiz!</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Bu daraja juda qiyin. Uni o'tkazib yuborib, keyingi o'yinga borishni xohlaysizmi? Siz har doim keyinroq qaytib kelishingiz mumkin.</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Barcha yechimlaringiz o'chirilsinmi?</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Ertangi kun dasturchilari uchun o'yinlar.</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>O'qituvchilar uchun ma'lumot...</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Qayta boshlamoqchimisiz?</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Ma'lumotlarni o'chirish</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>O'rdak</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Patlar</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Tumshuq</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Mushuk</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Mo'ylovlar</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Mo'yna</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Ari</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Asal</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Nish</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Shilliq</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Qobiq</target>
+      </trans-unit>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Shilimshiq</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>rasm:</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>oyoqlari:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>tanlang...</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>xususiyatlar:</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Ajoyib!
+Barcha %1 bloklar to'g'ri</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Deyarli! Bitta blok noto'g'ri.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blok xato.</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Belgilangan blok to'g'ri emas. Harakat qilishni davom ettiring.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Javoblarni tekshiring</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Har bir hayvon uchun (yashil), rasmini biriktiring, oyoqlar sonini tanlang va uning xususiyatlariga bir qator qilib qo'ying.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>Oldinga yurish</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>Chapga burilish</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>O'ngga burilish</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>bajarish</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>aks holda</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else bloklari u yoki bu narsani bajaradi.</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>agar to'g'rida yo'l bo'lsa</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>agar chap tarafda yo'l bo'lsa</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>agar o'ng tomonda yo'lda bo'lsa</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>qadar takrorlang</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Qahramonni bitta bo'shliq oldinga siljitadi.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Qahramonni 90 daraja chapga yoki o'ngga burab \nqo'yadi. </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Agar belgilangan yo'nalishda yo'l bo'lsa, \nunda ba'zi amallarni bajaring. </target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Agar belgilangan yo'nalishda yo'l bo'lsa, \nunda birinchi harakatlar blokini bajaring. \nAks holda, harakatlarning ikkinchi blokini \nbajaring. </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Tugatish nuqtasiga yetguncha ko'rsatilgan \namallarni takrorlang. </target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Sizda %0 ta blok qoldi.</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Sizda %1 ta blok qoldi.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Sizda %2 ta blok qoldi.</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>O'yinchini bloklar aytganlarini bajarishga \nmajbur qiladi. </target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Labirintning boshiga o'yinchini qaytarib qo'ying.</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Maqsadga erishishimda yordam berish uchun bir nechta "oldinga siljish" bloklarini yig'ing.</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Ushbu darajada siz oq rangdagi ish joyida barcha bloklarni to'plashingiz kerak.</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Nima bo'lishini ko'rish uchun dasturingizni ishga tushiring.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Sizning dasturingiz labirintga yechim topmadi. "Qayta tiklash" tugmasini bosing va qaytadan urinib ko'ring.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Ushbu yo'lning oxiriga yetish uchun faqat ikkita blokdan foydalaning. Blokni bir necha marta ishlatish uchun "takrorlash" dan foydalaning.</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Siz ushbu darajadagi barcha bloklardan foydalandingiz. Yangi blok yaratish uchun avval mavjud blokni o'chirib tashlashingiz kerak.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Siz "takrorlash" blokiga bir nechta bloklarni joylashtirishingiz mumkin.</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Ushbu menyudan yoqtirgan qahramoningizni tanlang.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>"Agar" bloki faqat shart to'g'ri bo'lsa, biror ishni bajaradi. Agar chap tomonda yo'l bo'lsa, chapga burilishga harakat qiling.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Uning holatini o'zgartirish uchun 'if' blokidagi %1-ni bosing.</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Ushbu murakkab labirintning yechimini topa olasizmi? Chap tarafdagi devor bilan harakat qilib ko'ring. Faqat kuchli dasturchilar uchun!</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>chuvalchang yo'q</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>sarlavha</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Qush chuvalchangni olmagan holat.</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Berilgan burchak yo'nalishi bo'yicha \nharakatlaning: 0 o'ngga, 90 to'g'ri \nyuqoriga va hk. </target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Nishon</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

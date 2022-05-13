@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="yue">
+    <body>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>塊狀遊戲</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>難題</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>迷宫</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>鳥</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>海龜</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>電影</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>音樂</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>池塘導師</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>池塘</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>遺傳學</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>您用1行JavaScript解決了此級別：</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>您用%1行JavaScript解決了此級別：</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>你是否準備好參加%1級？</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>你準備好迎接下一個挑戰了嗎？</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>標題:</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>保存並連結到塊。</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>運行你編寫嘅程序。</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>運行計劃</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>停止程序並重置級別。</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>重設</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>幫手</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>邏輯</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>循環</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>數學</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>發短信</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>一覽</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>顏色</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>變數</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>功能</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>請求有問題。</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>透過此連結共享您的塊：
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>抱歉，"%1"與任何保存嘅程序唔對應。</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>無法加載已保存嘅文件。 或者佢係用不同版本嘅塊狀創建嘅？</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>感謝您為呢個程序！  如果我哋訓練有素的猴子嘅工作人員喜歡它，佢哋將喺幾日內將佢發佈到畫廊。</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>列表</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>發短信</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>一旦開始編輯JavaScript，你就無法返抵編輯塊。 可唔可以?</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>封鎖</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>祝賀！</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>呢個級別係極其困難嘅。 你想飛它，進入下一場比賽嗎？ 你總是可以遲啲返嚟。</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>刪除所有解決方案？</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>聽日程序員嘅遊戲。</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>教育工作者嘅信息...</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>想重新開始嗎？</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>清晰數據</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>鴨</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>羽毛</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>喙</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://zh-yue.wikipedia.org/wiki/鴨</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>貓</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>鬍鬚</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>毛皮</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://zh-yue.wikipedia.org/wiki/貓</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>蜜蜂</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>蜂蜜</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>毒刺</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://zh-yue.wikipedia.org/wiki/蜜蜂</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>蝸牛</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>殼</target>
+      </trans-unit>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>泥</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://zh-yue.wikipedia.org/wiki/蝸牛</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>圖片:</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>腿：</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>選擇。。。</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>性狀：</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>完善！
+所有%1蚊都係正確嘅。</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>幾乎！ 一個塊不正確。</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 蚊不正確。</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>突出顯示嘅嚿唔正確。
+繼續努力</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>檢查答案</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>對於每種動物（綠色），附上它的圖片，選擇牠的腿部數量，並製作一疊牠的特徵。</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>向前移動</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>左轉</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>向右轉</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>做</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>還</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>如果-第二塊會做一件事或另一件事。</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>如果路徑領先</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>如果路徑向左</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>如果路徑向右</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>重複，直到</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>把玩家向前移動一個空間。</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>將播放器向左或向右轉90度。</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>如果有特定方向嘅路徑，則進行一些操作。</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>如果在指定方向上有一條路徑，則進行第一個操作塊。 否則，做第二個蚊行動。.</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>重複封閉嘅操作，直到到達終點。</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>您有%0 塊左。</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>你仲剩低%1蚊</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>您有%2 塊左。</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>畀玩家做方塊講嘅。</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>將玩家放回迷宮嘅起點。</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>把幾個"向前移動"塊堆疊喺埋一齊，以幫助我實現目標。</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>在此級別上，您需要把白色工作區中嘅所有塊堆疊喺埋一齊。</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>運行您的程序，睇下會發生乜嘢。</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>你嘅程序冇解決迷宮。 按"重置"，重試。</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>只需使用兩個方塊到達此路徑嘅末端。 使用"重複"多次運行塊。</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>你已用完此級別嘅所有塊。 要創建新塊，您首先需要刪除現有塊。</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>你可以在"重複"塊內安裝多個方塊。</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>從此餐牌中選擇您最喜愛的播放器。</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>只有当條件屬實時，"如果"嚿先會做一些事情。 如果有左轉路徑，請嘗試左轉。</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>你可唔可以解決呢個複雜嘅迷宮啊？ 嘗試跟隨左側牆壁。 僅限高級程序員！</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>冇蠕蟲</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>標題</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>鳥冇得到蠕蟲嘅情況。</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>向畀定角度嘅方向移動：0嚮右移動，90嚮直向上移動等。</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x同y標記鳥嘅位置。 当x = 0鳥靠近左邊緣時，当x = 100它靠近右邊緣時。 \n當y=0鳥在底部時，當y=100它在頂部時。 </target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>前進</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>向後移動</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>右轉</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>左轉</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>設置寬度到</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>更改筆嘅色水。</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>設置顏色到</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>筆了</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>筆下來</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>屈海龜</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>顯示海龜</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://zh-yue.wikipedia.org/wiki/印刷</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>打印</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://zh-yue.wikipedia.org/wiki/字體</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>字體</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>字體大小</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>正常</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>大膽</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>斜體嘅</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>請參閱圖庫</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>将你嘅繪圖提交到圖庫。</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>提交畀圖庫</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>您的解決方案有效，但您可以做得更好嘅。</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>創建繪製正方形嘅程序。</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>畫一粒黃星。</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>開始x</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>開始y</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>結束x</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>結束y</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>半徑</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>寬度</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>高度</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>圈</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>矩形</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>線</target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>返回動畫中嘅當前時間（ 0-100 ）。</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>更改筆嘅色水。</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>設置顏色到</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>你嘅電影唔郁咗 使用方塊嚟製作有趣嘅嘢。 然後，您可以把您的電影提交到畫廊。</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>打開電影庫。</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>請參閱圖庫</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>将你嘅電影提交畀畫廊。</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>提交畀圖庫</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>使用簡單嘅形狀嚟繪製此人。</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>使用"查看圖庫"按鈕查看其他人製作嘅電影。 如果您製作一部有趣嘅電影，請使用"提交到圖庫"按鈕嚟發佈它。</target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>播放指定持續時間和音高的一個音符。</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>播放%1注%2</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>等待指定嘅持續時間。</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>等待一個完整嘅音符。</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>休息%1</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>播放後續音符時切換到指定樂器。</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>把儀器設置為%1</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>單擊"運行程序"按鈕時執行內部塊。</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>當%1單擊時</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>一個音符（C4係7）。</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>第一部分</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>鋼琴</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>小號</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>班卓琴</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>小提琴</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>結他</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>長笛</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>鼓</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>唱詩班</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>運行您的程序，直到它停止。 然後，您可以把音樂提交到畫廊。</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>打開音樂畫廊。</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>請參閱圖庫</target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>将你嘅音樂提交到圖庫。</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>提交畀圖庫</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>您的解決方案有效，但您可以做得更好嘅。  使用功能嚟減少重複代碼嘅數量。</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>撰寫 '雅克兄弟' 嘅前四個音符。</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>顯示語言文檔。</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>文檔</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>選手</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>目標</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>擺</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>害怕</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>您的解決方案有效，但您可以做得更好嘅。 使用"scan"話畀大炮射多遠。</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>使用"cannon"命令擊中目標。 頭炮參數係角度，第二個參數係範圍。 搵到正確嘅組合。</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>此目標需要多次命中。 使用"while (true)"循環無限期地做某事。</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>呢個對手太遠了，不能使用大炮（有70米嘅極限）。 相反，使用徜徉"swim"桎梏命令開始向對手游去並撞到它。</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>呢個對手都太遠了，唔可以用大炮了。 但係你太虛弱了，無法在碰撞中倖存下來。 游水向對手，而你嘅水平位置小於50。 然後徜徉"stop"止桎梏並使用大炮。</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>呢個對手被擊中後會離開。 游水向它，如果佢係範圍外（70米）。</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>圖集</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
