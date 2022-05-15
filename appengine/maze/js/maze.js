@@ -479,7 +479,7 @@ Maze.init = function() {
   BlocklyInterface.workspace.getAudioManager().load(Maze.SKIN.winSound, 'win');
   BlocklyInterface.workspace.getAudioManager().load(Maze.SKIN.crashSound, 'fail');
   // Not really needed, there are no user-defined functions or variables.
-  Blockly.JavaScript.addReservedWords('moveForward,moveBackward,' +
+  Blockly.JavaScript.addReservedWords('moveForward,moveBackward,moveNorth,moveSouth,moveEast,moveWest,' +
       'turnRight,turnLeft,isPathForward,isPathRight,isPathBackward,isPathLeft');
 
   Maze.drawMap();
@@ -487,7 +487,7 @@ Maze.init = function() {
   var defaultXml =
       '<xml>' +
         '<block movable="' + (BlocklyGames.LEVEL != 1) + '" ' +
-        'type="maze_moveForward" x="70" y="70"></block>' +
+        'type="maze_moveEast" x="70" y="70"></block>' +
       '</xml>';
   BlocklyInterface.loadBlocks(defaultXml, false);
 
@@ -590,9 +590,9 @@ Maze.levelHelp = function(opt_event) {
       if (topBlocks.length > 1) {
         var xml = [
             '<xml>',
-              '<block type="maze_moveForward" x="10" y="10">',
+              '<block type="maze_moveEast" x="10" y="10">',
                 '<next>',
-                  '<block type="maze_moveForward"></block>',
+                  '<block type="maze_moveEast"></block>',
                 '</next>',
               '</block>',
             '</xml>'];
@@ -939,41 +939,77 @@ Maze.initInterpreter = function(interpreter, globalObject) {
   wrapper = function(id) {
     Maze.move(2, id);
   };
+
   interpreter.setProperty(globalObject, 'moveBackward',
       interpreter.createNativeFunction(wrapper));
-  wrapper = function(id) {
-    Maze.turn(0, id);
+    wrapper = function (id) {
+        Maze.turnDirection(2, id);
+        Maze.move(0, id);
+    };
+
+  interpreter.setProperty(globalObject, 'moveSouth',
+      interpreter.createNativeFunction(wrapper));
+  wrapper = function (id) {
+      Maze.turnDirection(0, id);
+      Maze.move(0, id);
   };
+  
+  interpreter.setProperty(globalObject, 'moveNorth',
+      interpreter.createNativeFunction(wrapper));
+  wrapper = function (id) {
+      Maze.turnDirection(1, id);
+      Maze.move(0, id);
+  };
+
+  interpreter.setProperty(globalObject, 'moveEast',
+      interpreter.createNativeFunction(wrapper));
+  wrapper = function (id) {
+      Maze.turnDirection(3, id);
+      Maze.move(0, id);
+  };
+
+  interpreter.setProperty(globalObject, 'moveWest',
+      interpreter.createNativeFunction(wrapper));
+  wrapper = function (id) {
+      Maze.turn(0, id);
+  };
+
   interpreter.setProperty(globalObject, 'turnLeft',
       interpreter.createNativeFunction(wrapper));
   wrapper = function(id) {
     Maze.turn(1, id);
   };
+
   interpreter.setProperty(globalObject, 'turnRight',
       interpreter.createNativeFunction(wrapper));
   wrapper = function(id) {
     return Maze.isPath(0, id);
   };
+
   interpreter.setProperty(globalObject, 'isPathForward',
       interpreter.createNativeFunction(wrapper));
   wrapper = function(id) {
     return Maze.isPath(1, id);
   };
+
   interpreter.setProperty(globalObject, 'isPathRight',
       interpreter.createNativeFunction(wrapper));
   wrapper = function(id) {
     return Maze.isPath(2, id);
   };
+
   interpreter.setProperty(globalObject, 'isPathBackward',
       interpreter.createNativeFunction(wrapper));
   wrapper = function(id) {
     return Maze.isPath(3, id);
   };
+
   interpreter.setProperty(globalObject, 'isPathLeft',
       interpreter.createNativeFunction(wrapper));
   wrapper = function() {
     return Maze.notDone();
   };
+
   interpreter.setProperty(globalObject, 'notDone',
       interpreter.createNativeFunction(wrapper));
 };
@@ -1434,6 +1470,22 @@ Maze.turn = function(direction, id) {
   }
   Maze.pegmanD = Maze.constrainDirection4(Maze.pegmanD);
 };
+
+Maze.turnDirection = function (newDirection, id) {
+    if (Maze.pegmanD - newDirection > 0) {
+        var currentDirection = Maze.pegmanD;
+        while (currentDirection !== newDirection) {
+            Maze.turn(0, id);
+            currentDirection = Maze.pegmanD;
+        }
+    } else {
+        var currentDirection = Maze.pegmanD;
+        while (currentDirection !== newDirection) {
+            Maze.turn(1, id);
+            currentDirection = Maze.pegmanD;
+        }
+    }
+}
 
 /**
  * Is there a path next to pegman?
